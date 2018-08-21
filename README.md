@@ -2,7 +2,9 @@
 Matlab codes for Detecting Drug Communities and Predicting Comprehensive Drug-Drug Interactions via Balance Regularized Semi-Nonnegative Matrix Factorization
 
 # Data: 
-##'DDI.mat' contains the following variables
+
+'DDI.mat' contains the following variables
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   Name                      Size                 Bytes  Class     Attributes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -19,7 +21,8 @@ Matlab codes for Detecting Drug Communities and Predicting Comprehensive Drug-Dr
   structure_feature      1601x881             11283848  double    the PubChem fingerprints          
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-##'DCA_1601.mat', 'DEN_1601.mat', 'DTI_1601.mat', 'DTR_1601.mat' contain four variables. For example, DTI_1601.mat contains 
+'DCA_1601.mat', 'DEN_1601.mat', 'DTI_1601.mat', 'DTR_1601.mat' contain four variables. For example, DTI_1601.mat contains 
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   Name                Size                 Bytes  Class     Attributes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -28,6 +31,7 @@ Matlab codes for Detecting Drug Communities and Predicting Comprehensive Drug-Dr
   DTI_name         1352x1                 170352  cell      drugs having at least one target          
   Target_name      1213x1                 150420  cell      the names of drug targets     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 The contents of other files are organized in a similar way.
 
 # Codes: are being cleaned.
