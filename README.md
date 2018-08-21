@@ -2,6 +2,7 @@
 Matlab codes for Detecting Drug Communities and Predicting Comprehensive Drug-Drug Interactions via Balance Regularized Semi-Nonnegative Matrix Factorization
 
 ## Data: 
+
 ######'DDI.mat' contains the following variables
 
 |Name                      |Size                 |Bytes  |Class     |Attributes|          
