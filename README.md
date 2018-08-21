@@ -5,6 +5,7 @@ Matlab codes for Detecting Drug Communities and Predicting Comprehensive Drug-Dr
 
 ######'DDI.mat' contains the following variables 
 
+
 |Name                      |Size                 |Bytes  |Class     |Attributes|          
 | ------------ | ------------ | ------------ | ------------ | ------------ |          
 |  Adj_DCA                |1601x47                |601976  |double    |drug-binding proteins: carriers, non-targets|          
