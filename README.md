@@ -3,7 +3,7 @@ Matlab codes for Detecting Drug Communities and Predicting Comprehensive Drug-Dr
 
 ## Data: 
 
-######'DDI.mat' contains the following variables
+######'DDI.mat' contains the following variables 
 
 |Name                      |Size                 |Bytes  |Class     |Attributes|          
 | ------------ | ------------ | ------------ | ------------ | ------------ |          
